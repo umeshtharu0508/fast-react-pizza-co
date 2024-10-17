@@ -13,7 +13,7 @@ In this guided(Jonas Schmedtmann) hand’s on practiced “Fast React Pizza Co.�
 
 Tools used:
 ------------
-1.	React-Router is used routing the page requests and modern data loading capabilities.
+1.	React+vite libraries are used and React-Router is used for routing the page requests and modern data loading capabilities.
 2.	For global state management Redux is used.
 3.	For basic navigation purposes React-Router-DOM’s Link, redirect, useActionData, useNavigation are used.
 4.	Components reusability is their like <Button/> component.
